@@ -10,3 +10,5 @@
 - 🆓 I loved to contribute to opensource projects.
 - 🏫 These day's I'm working on smoothing up my backend knowledge also.
 - 💻 As a [Freelancer](https://www.fiverr.com/anushkawije97) I would like to help Business to improve their Brands.
+
+> ⚡ Fun Facts : 🏎 / 🏉 / 🎸 / 🎬 / ✈
