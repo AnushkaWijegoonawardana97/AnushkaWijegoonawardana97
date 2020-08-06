@@ -26,7 +26,8 @@
 [<img align="left" alt="My Twitter Acount" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/anushka_wije)
 
 <br>
+<br>
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&count_private=true&show_icons=true&hide_border=true" />
