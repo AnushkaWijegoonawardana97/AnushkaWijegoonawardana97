@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.0db0cef4-3243-4673-bcbf-95ae9e70b8c4 }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN}}
           USERNAME: WinterWolf97
           SHOW_TITLE: false
