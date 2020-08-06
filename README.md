@@ -15,6 +15,8 @@
 
 > ⚡ Fun Facts : 🏎 / 🏉 / 🎸 / 🎬 / ✈
 
+<br>
+
 ### Connect with me:
 
 [<img align="left" alt="wijegoonawardana.com" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://wijegoonawardana.com/)
@@ -23,4 +25,8 @@
 [<img align="left" alt="My Facebook Acount" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/AnushkaWijegoonawardana97/)
 [<img align="left" alt="My Twitter Acount" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/anushka_wije)
 
+<br>
+
 ---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&show_icons=true&hide_border=true" />
