@@ -32,4 +32,6 @@
 
 <img align="left" alt="My GitHub Status" src="https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&include_all_commits=true&show_icons=true" />
 
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&layout=compact)](https://github.com/AnushkaWijegoonawardana97)
