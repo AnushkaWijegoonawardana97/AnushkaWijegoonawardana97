@@ -32,9 +32,7 @@
 
 ### My GitHub Stats
 
-<p align="center">
-<img align="center" alt="My GitHub Status" src="https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&include_all_commits=true&show_icons=true" />
-</p>
+<img align="left" alt="My GitHub Status" src="https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&include_all_commits=true&show_icons=true" />
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
