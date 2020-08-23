@@ -1,6 +1,6 @@
 ### Hi Guys, I'm Anushka Wijegoonawardana 👋.
 
-### Welcome, all of you to my GitHub repository 🤝.
+### Welcome, all of you to my GitHub Account 🤝.
 
 ## About Me 🧑
 
