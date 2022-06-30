@@ -24,6 +24,6 @@
 
 ## GitHub Thropies 🏆 :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97s)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
 
 ## Activity Graph 📊 :
