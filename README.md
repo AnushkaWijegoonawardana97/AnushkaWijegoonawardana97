@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnushkaWijegoonawardana97/AnushkaWijegoonawardana97/main/assets/oh_hi_there.png" width="300" alt="Hi there!"/>
-</div>
-
 <h1 align="center">Hi, I'm Anushka Wijegoonawardana 👋</h1>
 <p align="center">
   Senior Software Engineer | Full-Stack Web Developer | React & Next.js Specialist | Open Source Contributor
@@ -11,11 +7,11 @@
 
 ## About Me
 
-- 🔹 Senior Software Engineer at **Eventbook / WireApps**, leading frontend development and technical solutions for high-impact web applications.  
-- 🔹 Extensive experience in React, Next.js, TypeScript, Tailwind, SCSS, Node.js, and modern JS ecosystems.  
-- 🔹 Skilled in building scalable, maintainable, and high-performance applications, including SaaS platforms, event management, and enterprise tools.  
-- 🔹 Strong background in reusable component libraries, dynamic content engines, CI/CD, cloud deployments (AWS, Azure, GCP), mentoring, and technical interviews.  
-- 🔹 Passionate about open-source, developer community engagement, and continuous learning.
+- Senior Software Engineer at **Eventbook / WireApps**, leading frontend development and technical solutions for high-impact web applications.  
+- Extensive experience in React, Next.js, TypeScript, Tailwind, SCSS, Node.js, and modern JS ecosystems.  
+- Skilled in building scalable, maintainable, and high-performance applications, including SaaS platforms, event management, and enterprise tools.  
+- Strong background in reusable component libraries, dynamic content engines, CI/CD, cloud deployments (AWS, Azure, GCP), mentoring, and technical interviews.  
+- Passionate about open-source, developer community engagement, and continuous learning.
 
 ---
 
@@ -48,11 +44,11 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkawijegoonawardana97&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkawijegoonawardana97&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaWijegoonawardana97&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
