@@ -1,89 +1,117 @@
 <h1 align="center">Hi, I'm Anushka Wijegoonawardana 👋</h1>
+<h3 align="center">Senior Software Engineer · Full-Stack Web Developer · React & Next.js Specialist · Open Source Enthusiast</h3>
+
 <p align="center">
-  Senior Software Engineer | Full-Stack Web Developer | React & Next.js Specialist | Open Source Contributor
+  Building scalable, high-performance web applications and leading engineering teams with a focus on frontend excellence and modern JavaScript ecosystems.
 </p>
 
 ---
 
-## About Me
+## 🛠 About Me
 
-- Senior Software Engineer at **Eventbook / WireApps**, leading frontend development and technical solutions for high-impact web applications.  
-- Extensive experience in React, Next.js, TypeScript, Tailwind, SCSS, Node.js, and modern JS ecosystems.  
-- Skilled in building scalable, maintainable, and high-performance applications, including SaaS platforms, event management, and enterprise tools.  
-- Strong background in reusable component libraries, dynamic content engines, CI/CD, cloud deployments (AWS, Azure, GCP), mentoring, and technical interviews.  
-- Passionate about open-source, developer community engagement, and continuous learning.
-
----
-
-## Connect with Me
-
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/anushkawijegoonawardana97/)  
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/anushkawijegoonawardana97/)  
-[![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/AnushkaWijegoonawardana97)  
-[![Twitter](https://img.icons8.com/fluency/48/000000/twitter-squared.png)](https://twitter.com/anushka_wije)  
-[![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:anushkaduwolka123@gmail.com)  
-[![Phone](https://img.icons8.com/fluency/48/000000/phone-disconnected.png)](tel:+94711971313)
+- Senior Software Engineer at **Eventbook / WireApps**, leading frontend development and architecture for high-impact products.  
+- Experienced in React, Next.js, TypeScript, Tailwind, SCSS, Node.js, Strapi, and modern JS frameworks.  
+- Expertise in building reusable component libraries, dynamic page builders, and CI/CD pipelines for SaaS platforms, enterprise tools, and event management systems.  
+- Skilled in cloud deployments (AWS, Azure, GCP), performance optimization, SEO, mentoring, and technical interviews.  
+- Passionate about open-source, developer communities, and continuous learning.
 
 ---
 
-## Skills & Technologies
+## 🚀 Currently
 
-**Frontend:**  
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> <img src="https://img.icons8.com/color/48/000000/mui.png"/> <img src="https://img.icons8.com/color/48/000000/shadcn-ui.png"/>
-
-**Backend & Databases:**  
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/color/48/000000/mysql.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/color/48/000000/sql-server.png"/> <img src="https://img.icons8.com/fluency/48/000000/supabase.png"/>
-
-**Cloud & DevOps:**  
-<img src="https://img.icons8.com/color/48/000000/aws.png"/> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/48/000000/azure-1.png"/> <img src="https://img.icons8.com/color/48/000000/docker.png"/> <img src="https://img.icons8.com/fluency/48/000000/github-actions.png"/>
-
-**Other Tools & Practices:** Agile/Scrum, CI/CD, SEO, Google Schemas, System Architecture, Code Reviews, Mentoring, Testing (Jest, React Testing Library)
+- Leading frontend development for **Eventbook** – Event management platform.  
+- Developing **Plooo Reseller Dashboard System** to improve operational efficiency.  
+- Exploring **advanced React patterns, state management, and performance optimization**.
 
 ---
 
-## GitHub Stats
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats"/>
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaWijegoonawardana97&theme=radical" alt="GitHub Streak"/>
-</p>
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FC4C02?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-## Selected Projects
+## 📂 Selected Projects
 
-### Eventbook – Event Management Platform
+### **Eventbook – Event Management Platform**
 **Tech:** React, React Query, TypeScript, Axios, AWS Cognito, Stripe  
-- Leading frontend development and serving as Tech Lead & Scrum Master.  
-- Built reusable components, dynamic page builder with Strapi, and CI/CD workflows via GitHub Actions.  
-- Managed AWS deployments for secure, scalable production.
+- Led frontend development as **Tech Lead & Scrum Master**.  
+- Built reusable components and a dynamic page builder for non-technical users.  
+- Managed AWS deployments and implemented GitHub Actions CI/CD workflows.
 
-### Warmur & Warmur Academy – Learning & Community Platform
+### **Warmur & Warmur Academy – Learning & Community Platform**
 **Tech:** Next.js, Tailwind, Strapi, TypeScript  
-- Developed dynamic content engine enabling non-technical teams to build pages.  
-- Built 15+ reusable UI components.  
-- Managed Azure deployments and optimized CI/CD pipelines.
+- Developed a dynamic content engine enabling rapid page creation.  
+- Built a 15+ component library and optimized Azure deployments.
 
-### Flight Patrol – Aviation Operations Tools
+### **Flight Patrol – Aviation Operations Tools**
 **Tech:** React, Tailwind, TypeScript  
-- Developed reusable hooks, optimized API integrations, and improved frontend performance.  
-- Collaborated on cross-team design discussions and operational UI/UX.
+- Developed reusable hooks, optimized API integrations, and improved frontend performance.
 
-### Coles Supermarkets – Delivery Management & Rover for Liquor
+### **Coles Supermarkets – Delivery & Rover for Liquor**
 **Tech:** React, Redux, Axios, TypeScript  
-- Optimized administrative workflows and delivery scheduling.  
-- Built custom hooks and API wrappers, improving code maintainability.  
-- Developed new UI features integrated with Java-based backend APIs.
+- Streamlined delivery scheduling workflows.  
+- Developed new UI features and custom API wrappers, improving maintainability and performance.
 
-**See all repositories [here](https://github.com/AnushkaWijegoonawardana97?tab=repositories).**
+**See all projects [here](https://github.com/AnushkaWijegoonawardana97?tab=repositories).**
+
+---
+
+## 📊 GitHub Insights
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats"/>
+</div></br>
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnushkaWijegoonawardana97&show_icons=true&layout=compact&theme=radical" alt="Top Languages"/>
+</div></br>
+
+<div align="center">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@WinterWolf97/fd357af7-c0a3-4f5a-90ac-63224d2fcdbb.png" /></a>
+</div></br>
+
+<div align="center">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@WinterWolf97/b5314e7a-18b9-4532-9950-0773f36fc275.png" /></a>
+</div></br>
 
 ---
 
-## Let's Collaborate
+## 🌐 Connect with Me
 
-I am open to contributing to interesting open-source projects, mentoring, and building innovative web applications. Feel free to connect or reach out via email for collaborations or opportunities.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushkawijegoonawardana97/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anushka_wije)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anushkawijegoonawardana97/)
+[![Facebook](https://img.shields.io/badge/Facebook-0088CC?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AnushkaWijegoonawardana97)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushkaduwolka123@gmail.com)
+[![Website](https://img.shields.io/badge/Website-101010?style=for-the-badge&logo=google-chrome&logoColor=white)](http://wijegoonawardana.com/)
 
 ---
+
+## 💡 Fun Fact
+
+I enjoy building developer tools, optimizing workflows, and exploring emerging frontend patterns while mentoring the next generation of engineers.
