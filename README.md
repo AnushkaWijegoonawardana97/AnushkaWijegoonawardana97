@@ -1,117 +1,51 @@
-<h1 align="center">Hi, I'm Anushka Wijegoonawardana 👋</h1>
-<h3 align="center">Senior Software Engineer · Full-Stack Web Developer · React & Next.js Specialist · Open Source Enthusiast</h3>
-
 <p align="center">
-  Building scalable, high-performance web applications and leading engineering teams with a focus on frontend excellence and modern JavaScript ecosystems.
+  <img src="./assets/hero.svg" alt="Anushka Wijegoonawardana, Senior Software Engineer in Colombo. Agents draft. I decide." width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="./assets/craft.svg" alt="How I work: agents draft, I decide, I ship. The process is not built on AI." width="100%" />
+</p>
 
-## 🛠 About Me
+<p align="center">
+  <img src="./assets/now.svg" alt="Current work: Eventbook via WireApps, WireApps, and own studio" width="100%" />
+</p>
 
-- Senior Software Engineer at **Eventbook / WireApps**, leading frontend development and architecture for high-impact products.  
-- Experienced in React, Next.js, TypeScript, Tailwind, SCSS, Node.js, Strapi, and modern JS frameworks.  
-- Expertise in building reusable component libraries, dynamic page builders, and CI/CD pipelines for SaaS platforms, enterprise tools, and event management systems.  
-- Skilled in cloud deployments (AWS, Azure, GCP), performance optimization, SEO, mentoring, and technical interviews.  
-- Passionate about open-source, developer communities, and continuous learning.
+<p align="center">
+  <img src="./assets/path.svg" alt="Career path from intern to senior full-stack engineer, BCS diploma and certifications" width="100%" />
+</p>
 
----
+<p align="center">
+  <img src="./assets/work.svg" alt="OceanOps, UniEarn, Lynx n Co, ThesisTechHub, Ansely Digital, and a private agent desk" width="100%" />
+</p>
 
-## 🚀 Currently
+<p align="center">
+  <a href="https://www.lynxnco.com">Lynx n Co</a>
+  ·
+  <a href="https://www.thesistechhub.com">ThesisTechHub</a>
+  ·
+  <a href="https://www.ansely.co.uk">Ansely Digital</a>
+  ·
+  <a href="https://harrisons-spice.co.uk">Harrison Spice</a>
+  ·
+  <a href="https://www.wijegoonawardana.com">wijegoonawardana.com</a>
+</p>
 
-- Leading frontend development for **Eventbook** – Event management platform.  
-- Developing **Plooo Reseller Dashboard System** to improve operational efficiency.  
-- Exploring **advanced React patterns, state management, and performance optimization**.
+<p align="center">
+  <img src="./assets/stack.svg" alt="Full technology stack from the CV: AI agents, payments, frontend, backend, cloud and testing" width="100%" />
+</p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AnushkaWijegoonawardana97&theme=dark&hide_border=true&background=00000000" />
+    <img src="https://streak-stats.demolab.com/?user=AnushkaWijegoonawardana97&theme=default&hide_border=true&background=FFFFFF00" alt="GitHub streak" />
+  </picture>
+</p>
 
-## 🛠 Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FC4C02?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 📂 Selected Projects
-
-### **Eventbook – Event Management Platform**
-**Tech:** React, React Query, TypeScript, Axios, AWS Cognito, Stripe  
-- Led frontend development as **Tech Lead & Scrum Master**.  
-- Built reusable components and a dynamic page builder for non-technical users.  
-- Managed AWS deployments and implemented GitHub Actions CI/CD workflows.
-
-### **Warmur & Warmur Academy – Learning & Community Platform**
-**Tech:** Next.js, Tailwind, Strapi, TypeScript  
-- Developed a dynamic content engine enabling rapid page creation.  
-- Built a 15+ component library and optimized Azure deployments.
-
-### **Flight Patrol – Aviation Operations Tools**
-**Tech:** React, Tailwind, TypeScript  
-- Developed reusable hooks, optimized API integrations, and improved frontend performance.
-
-### **Coles Supermarkets – Delivery & Rover for Liquor**
-**Tech:** React, Redux, Axios, TypeScript  
-- Streamlined delivery scheduling workflows.  
-- Developed new UI features and custom API wrappers, improving maintainability and performance.
-
-**See all projects [here](https://github.com/AnushkaWijegoonawardana97?tab=repositories).**
-
----
-
-## 📊 GitHub Insights
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats"/>
-</div></br>
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnushkaWijegoonawardana97&show_icons=true&layout=compact&theme=radical" alt="Top Languages"/>
-</div></br>
-
-<div align="center">
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@WinterWolf97/fd357af7-c0a3-4f5a-90ac-63224d2fcdbb.png" /></a>
-</div></br>
-
-<div align="center">
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@WinterWolf97/b5314e7a-18b9-4532-9950-0773f36fc275.png" /></a>
-</div></br>
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushkawijegoonawardana97/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anushka_wije)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anushkawijegoonawardana97/)
-[![Facebook](https://img.shields.io/badge/Facebook-0088CC?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AnushkaWijegoonawardana97)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushkaduwolka123@gmail.com)
-[![Website](https://img.shields.io/badge/Website-101010?style=for-the-badge&logo=google-chrome&logoColor=white)](http://wijegoonawardana.com/)
-
----
-
-## 💡 Fun Fact
-
-I enjoy building developer tools, optimizing workflows, and exploring emerging frontend patterns while mentoring the next generation of engineers.
+<p align="center">
+  <a href="https://www.wijegoonawardana.com/"><img src="https://img.shields.io/badge/website-1D1D1F?style=for-the-badge" alt="Website" /></a>
+  <a href="mailto:anushkaduwolka123@gmail.com"><img src="https://img.shields.io/badge/email-0071E3?style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/anushkawijegoonawardana97/"><img src="https://img.shields.io/badge/linkedin-0071E3?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/anushka_wije"><img src="https://img.shields.io/badge/x-1D1D1F?style=for-the-badge" alt="X" /></a>
+  <a href="https://www.instagram.com/anushkawijegoonawardana97/"><img src="https://img.shields.io/badge/instagram-1D1D1F?style=for-the-badge" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/AnushkaWijegoonawardana97"><img src="https://img.shields.io/badge/facebook-0071E3?style=for-the-badge" alt="Facebook" /></a>
+</p>
