@@ -24,7 +24,7 @@ I lead engineering on production SaaS — architecture, payments, and delivery �
 
 | Role | Where | Since |
 | --- | --- | --- |
-| **Tech Lead** | [Eventbook](https://www.eventbook.ai) via [WireApps](https://www.wireapps.com) — event platform, vendor onboarding, Stripe Connect | Aug 2025 |
+| **Tech Lead** | Eventbook via [WireApps](https://www.wireapps.com) — event platform, vendor onboarding, Stripe Connect | Aug 2025 |
 | **Senior Full-Stack Engineer** | [WireApps](https://www.wireapps.com) — marketplaces, payments, split payments, event products | Jan 2024 |
 | **Founder-engineer** | Own products and studios: OceanOps, Lynx n Co, ThesisTechHub, Ansely Digital | ongoing |
 
